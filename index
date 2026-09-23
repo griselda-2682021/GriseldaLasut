@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Beranda</title>
+</head>
+<body>
+
+    <h1>Selamat Datang di Website Saya</h1>
+    <p>Silakan klik tautan di bawah ini untuk melihat halaman biodata saya:</p>
+    
+    <!-- Link untuk membuka file aboutMe.html -->
+    <a href="16Sep-AboutMe.html">Buka Halaman About Me</a>
+
+</body>
+</html>
